@@ -3,4 +3,4 @@ Python3 script that converts wordlists to sha1-encryped wordlists, for the purpo
 
 Example: 
 
-./sha1_encrypter.py rockyou.txt sha1_rockyou.txt
+python3 sha1_encrypter.py rockyou.txt sha1_rockyou.txt
